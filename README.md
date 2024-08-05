@@ -1,2 +1,2 @@
-# Spotify_2024_EDA
-EDA of Spotify 2024 Data
+# Music_Streaming_EDA
+EDA & ML of Music Streaming Services Data from 2024
